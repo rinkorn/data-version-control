@@ -13,3 +13,5 @@ git clone git@github.com:YourUsername/data-version-control.git
 Make sure to replace `YourUsername` in the above command with your actual GitHub username.
 
 Happy coding!
+
+[Useful tutorial](https://proglib.io/p/git-dlya-data-science-kontrol-versiy-modeley-i-datasetov-s-pomoshchyu-dvc-2020-12-02)
